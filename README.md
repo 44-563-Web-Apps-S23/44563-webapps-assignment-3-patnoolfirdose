@@ -13,6 +13,12 @@ Assignment 3 - Basic HTML
     The objective is to score <b>more runs (points)</b> than the opposing team.
      A match is divided into innings during which one team bats, two batter at a time, and the other team bowls.
 </p>
-
+<hr>
+<h1>Famous Indian cricket team member</h1>
+<ul>
+     <li>Schin Tendulkar</li>
+     <li>M.S.Dhoni</li>
+     <li>Virat Kholi</li>
+</ul>
 </body>
 </html>
